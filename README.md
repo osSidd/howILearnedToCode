@@ -19,3 +19,10 @@ both
 
 <!-- Escape characters -->
 \*Not italicized\*
+
+<!-- Blockquotes -->
+
+> This is a blockquote
+
+<!-- Links -->
+[Link Text](linkaddress "Hover text")
