@@ -65,4 +65,13 @@ also `def func():{}`
         return num1 + num2
 ```
 
+<!-- tables -->
+
+| Name | Email |
+| ---- | ----- |
+| John Doe | john@doe.com |
+
+<!-- tasks list -->
+* [x] task done
+* [ ] task left
 
