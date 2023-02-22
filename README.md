@@ -1,28 +1,43 @@
-# how_I_Learned_To_CODE
+# Markdown cheatsheet
 
-<!-- Headings -->
-# H1
-## H2
-### H3
-#### H4 till h6
+## Headings
+# H1 ---> \#
+## H2 ---> \##
+### H3 ---> \###
+#### H4 ---> \####
+##### H5 ---> \#####
+###### H6 ---> \######
+<br/><br/>
 
-<!-- strong and emphasis -->
+## Strong 
+**Strong** ---> \**word\** <br/>
+__strong__ ---> \__word\__
+<br/><br/>
 
-**Strong** also __strong__ and *italics* also _italics_
+## Emphasis
+*Emphasis* ---> \*word\* <br/>
+_Emphasis_ ---> \_word\_ 
+<br/><br/>
 
-<!-- strike through and horizontal rule hr -->
-~~Strike through~~ and 
+## Strike through
+~~Strike throught~~ ---> \~~word\~~
+<br/><br/>
 
-___
+## Horizontal rule
 ---
-both
+---> \---
+___
+---> \___
+<br/><br/>
 
-<!-- Escape characters -->
-\*Not italicized\*
+## Escape characters
+use \character
+<br/><br/>
 
-<!-- Blockquotes -->
+## Blockquotes
+> Blockquotes ---> \>
+<br/><br/>
 
-> This is a blockquote
 
 <!-- Links -->
 [Link Text](linkaddress "Hover text")
