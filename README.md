@@ -38,55 +38,45 @@ use \character
 > Blockquotes ---> \>
 <br/><br/>
 
+## Links
+[Link Text](linkaddress "Hover text") ---> \[Link text](link address "text to appear on hover")
+<br/><br/>
 
-<!-- Links -->
-[Link Text](linkaddress "Hover text")
+## Unordered List and Ordered list
+* list item ---> \* item name
+1. list item ---> 1. item name
+<br/><br/>
 
-<!-- ul -->
+## Inline code blocks
+```
+    code 
+```
+---> <br/>
+\```language name
+<br/>
+<br/>
+\```
+ <br/><br/>
 
-* just
-* one
-* asterisk
-
-<!-- ol -->
-1. and 
-2. space
-
-<!-- inline code blocks -->
-`<p>back ticks and tags within them </p>`
-also `def func():{}`
-
-<!-- Images -->
-
+ ## Images
 ![MarkDown Image](https://markdown-here.com/img/icon256.png "Markdown image")
+<br/>
+---> \![Image text](Image address "text on hover")
+<br/><br/>
 
-
-<!-- GitHub markdown -->
-
-```bash
-    triple back ticks before and after
-    npm i -D
-    npm run devStart
-```
-
-```javascript
-    function sum(num1, num2){
-        return num1 + num2;
-    }
-```
-
-```python
-    def sum(num1, num2):
-        return num1 + num2
-```
-
-<!-- tables -->
-
+## Tables
 | Name | Email |
 | ---- | ----- |
 | John Doe | john@doe.com |
+<br/>
+--->
+<br/>
+\| table heading \| table heading \|<br/>
+\| ------------- \| ------------- \|<br/>
+\| table data    \| table data    \|<br/>
+<br/>
 
-<!-- tasks list -->
-* [x] task done
-* [ ] task left
+## Task list
+* [x] task done ---> \* \[ x \]
+* [ ] task left ---> \* \[  \]
 
