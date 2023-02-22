@@ -9,8 +9,10 @@ Before starting here is the link to the markdown (the language in which .md file
 
 Learning to code on your own is interesting, challenging, difficult and some times might be frustrating.
 
-<br/><br/>
-BUT IT IS REWARDING 
-<br/><br/>
+<br/>
+
+**BUT IT IS REWARDING**
+
+<br/>
 
 Learning to code is not bound to the domain of Software engineering jobs.
