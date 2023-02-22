@@ -71,9 +71,9 @@ use \character
 <br/>
 --->
 <br/>
-\| table heading \| table heading \|<br/>
-\| ------------- \| ------------- \|<br/>
-\| table data    \| table data    \|<br/>
+| table heading | table heading |<br/>
+| ------------- | ------------- |<br/>
+| table data    | table data    |<br/>
 <br/>
 
 ## Task list
